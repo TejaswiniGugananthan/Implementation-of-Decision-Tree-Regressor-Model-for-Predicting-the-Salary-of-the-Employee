@@ -8,10 +8,14 @@ To write a program to implement the Decision Tree Regressor Model for Predicting
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-1. Import the required libraries .
-2. Read the data frame using pandas.
-3. Get the information regarding the null values present in the dataframe.
-4. Apply label encoder to the non-numerical column inoreder to convert into numerical values.
+
+1.Import the required libraries.
+
+2.Read the data frame using pandas.
+
+3.Get the information regarding the null values present in the dataframe.
+
+4.Apply label encoder to the non-numerical column inoreder to convert into numerical values.
 
 5.Determine training and test data set.
 
@@ -77,7 +81,7 @@ dt.predict([[5,6]])
 
 3. isnull & sum function:
 
-   <img width="168" alt="image" src="https://github.com/TejaswiniGugananthan/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/121222763/9bb18166-4806-4692-860c-ee571805979e">
+   <img width="71" alt="image" src="https://github.com/TejaswiniGugananthan/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/121222763/a1557ef2-b7c8-4e5d-95bb-ff8d097c6a0a">
 
 
 4. Head for position:
